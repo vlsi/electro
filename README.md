@@ -13,7 +13,8 @@ Electro: проектирование щитов
 
 Последнюю версию можно скачать по адресу https://github.com/vlsi/electro/releases/latest
 
-Для работы Electro нужна Java 1.8. Её можно взять тут: https://www.java.com/en/download
+Для работы Electro нужна Java JDK 1.8 (версия должна быть именно 8, а не 9). JDK можно взять тут: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Если не запускается, то в начало `electro.bat` можно добавить `SET JAVA_HOME=C:\Program Files\Java\jdk1.8.0_92` (с правильным путём к Java JDK 1.8)
 
 Для создания проекта нужно нажать "create project", выбрать "пример щита", немного подождать.
 
