@@ -37,7 +37,7 @@ Here are the ways you can donate money:
 
 Flattr: <a href="https://flattr.com/submit/auto?fid=gzrox5&url=http%3A%2F%2Fgithub.com%2Fvlsi%2Fide61131" target="_blank"><img src="https://button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
 
-Yandex.money: http://yasobe.ru/na/hardellaide or https://money.yandex.ru/to/410013031807962
+Yandex.money: http://yasobe.ru/na/electroide or https://money.yandex.ru/to/410013031807962
 
 Paypal: https://www.paypal.me/VladimirSitnikov
 
